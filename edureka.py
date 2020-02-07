@@ -1,1 +1,0 @@
-echo "tutorial test file"
